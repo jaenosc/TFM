@@ -1,23 +1,23 @@
-# Trabajo Fin de Máster – Óscar Jaén Marrero
+# Master's Thesis – Óscar Jaén Marrero
 
-Este repositorio contiene mi Trabajo de Fin de Máster del Máster en Big Data & Business Analytics.  
-El proyecto se centra en la **optimización de estrategias en e-commerce** mediante técnicas de *text mining*, **modelización predictiva** y análisis de opiniones de clientes.
+This repository contains my Master's Thesis for the Big Data & Business Analytics program.  
+The project focuses on the **optimization of e-commerce strategies** using *text mining* techniques, **predictive modeling**, and customer review analysis.
 
-📄 **Título del TFM:**  
-*Optimización de estrategias en e-commerce a través de text mining, modelización predictiva y evaluación de opiniones de clientes.*
+📄 **Thesis Title:**  
+*Optimization of e-commerce strategies through text mining, predictive modeling, and customer review evaluation.*
 
-🌐 **Ver el proyecto online:**  
-👉 [Acceder al TFM en formato web](https://jaenosc.github.io/TFM/TFM_Oscar_Jaen.html)
+🌐 **View the project online:**  
+👉 [Access the web version of the thesis](https://jaenosc.github.io/TFM/TFM_Oscar_Jaen.html)
 
-📊 **Tecnologías utilizadas:**
-- Python
-- R
-- Jupyter Notebook
-- HTML / CSS
-- Bootstrap
+📊 **Technologies used:**
+- Python  
+- R  
+- Jupyter Notebook  
+- HTML / CSS  
+- Bootstrap  
 - Git & GitHub
 
 ---
 
-💼 Este proyecto forma parte de mi portfolio profesional.  
-Si deseas más información, puedes contactarme.
+💼 This project is part of my professional portfolio.  
+Feel free to reach out if you'd like more information.
